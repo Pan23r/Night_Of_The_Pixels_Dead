@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: feac05697e5b9f34caec82f96973bdf7
+  - enabled: 1
+    path: Assets/Scenes/Cucina.unity
+    guid: a5fa0442fa1e80e4a977c95dfb6510ae
+  - enabled: 1
+    path: Assets/Scenes/AtrioVers2.unity
+    guid: 4ab25c488971a9d4b81926b92fbfeb61
+  - enabled: 1
+    path: Assets/Scenes/Atrio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/MenuDifficolt\xE0.unity"
+    guid: 611e27f9fdcce534ab9bd10a44f3de5b
+  - enabled: 1
+    path: Assets/Scenes/Corridoio_Bunker.unity
+    guid: 5ed7aa83abf58694385f05adcc952b59
+  - enabled: 1
+    path: Assets/Scenes/Bagno.unity
+    guid: 89eb3d6c20442624a8cc845110bfdf99
+  - enabled: 1
+    path: Assets/Scenes/Piano2.unity
+    guid: a90172d404f85d7439003e952cadc82a
+  - enabled: 1
+    path: Assets/Scenes/CameraDaLetto.unity
+    guid: 0c082b0288adbd54c925ddc74e8ad84b
+  - enabled: 1
+    path: Assets/Scenes/Girl_BedRoom.unity
+    guid: 147fd4c588497ea4b9b9b82ff6ecb467
+  - enabled: 1
+    path: Assets/Scenes/Laboratory.unity
+    guid: 3cd364ea2b65b234699030d1fb86d0c1
+  - enabled: 1
+    path: Assets/Scenes/Cantina.unity
+    guid: 21fdd5f04f757eb4f8cd3016641fa534
+  - enabled: 1
+    path: Assets/Scenes/Bunker_Room.unity
+    guid: d733812fc94e38540962349b4a736941
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: c0a744d00dc0a95429ed04b4f03f7afd
+  m_configObjects: {}

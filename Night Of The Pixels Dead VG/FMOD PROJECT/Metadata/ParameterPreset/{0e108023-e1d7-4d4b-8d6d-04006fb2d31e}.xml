@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{0e108023-e1d7-4d4b-8d6d-04006fb2d31e}">
+		<property name="note" />
+		<property name="name">
+			<value>NewGameSoundManager</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51a960a4-ecda-4413-a3c9-9db5f166c1ea}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8fa2b654-d25d-4b51-ab32-58689b1cfac2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8fa2b654-d25d-4b51-ab32-58689b1cfac2}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>13</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Loop</value>
+			<value>IntroGame</value>
+			<value>Atrio</value>
+			<value>Cucina</value>
+			<value>Cantina</value>
+			<value>CameraDaLetto</value>
+			<value>Laboratorio</value>
+			<value>SaveMenu</value>
+			<value>Scale</value>
+			<value>MoonLightSonata</value>
+			<value>ZombieVideo</value>
+			<value>FinalBoss</value>
+			<value>Ending</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

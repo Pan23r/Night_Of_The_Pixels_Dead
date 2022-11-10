@@ -1,0 +1,142 @@
+<data>
+  <!--MAIN MENU-->
+  <text Play_Text="NUOVA PARTITA" />
+  <text Load_Text_Main="CARICA PARTITA" />
+  <text Option_Text="OPZIONI" />
+  <text Exit_Text="ESCI" />
+
+  <!--OPTION-->
+  <text On="ON" />
+  <text Off="OFF" />
+  <text Full_Screen="SCHERMO INTERO" />
+  <text Screen_Size="RISOLUZIONE FINESTRA" />
+  <text Volume="VOLUME" />
+  <text Language="LINGUA" />  
+
+  <!--LOAD & SAVE GAME-->
+  <text Save_text="SALVA PARTITA" />
+  <text Empty_Slot="SLOT VUOTO" />
+
+  <!--OVERLOAD SAVE REQUEST-->
+  <text RequestSaveHard="VUOI UTILIZZARE UNA PEZZA PER SALVARE I TUOI PROGRESSI?" />
+  <text RequestOverloadSave="VUOI SOVRASCRIVERE IL SALVATAGGIO?" />
+
+  <!--SELECT DIFFICULTY -->
+  <text difficulty_Title="COME TI DEFINISCI?"/>
+  <text ChoiceHardMod="Giocatore abituale del 'survival horror', non ho bisogno di aiuti  " />
+  <text ChoiceEasyMod="Giocatore inconsueto, ho bisogno di una mano" />
+  <text Hard="DIFFICILE" />
+  <text Easy="FACILE" />
+
+  <!--GAME MENU-->
+  <text Invenctory="INVENTARIO" />
+  <text BackToMainMenu="TORNA AL MENU" />
+
+  <!--BACK TO MAIN MENU REQUEST-->
+  <text Request ="VUOI TORNARE AL MENU PRINCIPALE?" />
+  <text Yes ="SI" />
+  <text No ="NO" />
+
+  <!--INVENCTORY-->
+  <text ObjEquipped="equipaggiato" />
+  <text UseSelect="Usa" />
+  <text EquipsdSelect="Equipaggia" />
+  <text CheckSelect="Esamina" />
+  <text CombineSelect="Combina" />
+  <text Life="VITA" />
+  
+  <!--OBJECT NAME-->
+  <text NameGun="M11-A1" />
+  <text NameSallyKey="Chiave della camera di Sally" />
+  <text NameLabKey="Chiave Laboratorio" />
+  <text NameAmmunitionGun ="Munizioni M11-A1" />
+  <text NameFloppy ="Floppy Disk" />
+  <text NameFloppyWithMusicSheet ="Floppy Disk con spartito" />
+  <text NameMusicSheet ="Spartito" />
+  <text NameMedallion ="Medaglione con uomo Vitruviano" />
+  <text NameMagnum ="Colt Python 357" />
+  <text NamepieceOfCloth ="Pezza di stoffa con ago" />
+  
+  <!--OBJECT EXAMINATION-->
+  <text GunExamination="Pistola trovata nell'atrio, e' una semiautomatica 9mm" />
+  <text SallysKeyExamination="Chiave trovata in camera da letto, dovrebbe aprire la stanza della ragazza che abita in questa casa" />
+  <text LabKeyExamination="Chiave che apre il laboratorio al primo piano" />
+  <text AmmunitionExamination="Munizioni Eagle Gold 9mm, si posssono utilizzare per la M11-A1" />
+  <text FloppyExamination="Floppy Disk da 2.8 MB, potrebbe contenere dei file" />
+  <text FloppyWhithMusicSheetExamination="Floppy Disk da 2.8 MB, contiene il file di uno spartito" />
+  <text MusicSheetExamination="Uno spartito della Moonlight Sonata di Beethoven" />
+  <text MedallionExamination="Un Medaglione raffigurante l'uomo Vitruviano, opera di Leonardo Da Vinci, artista/scienziato italiano del 1400" />
+  <text MagnumExamination="Magnum Colt Python 357 con canna lunga 6 pollici, ha un tamburo di 6 colpi" />
+  <text PieceOfClothExamination ="Questo oggetto trasporta un ricordo con se' e se cucito su un oggetto significativo puo' aggiungere nuovi ricordi" />
+  
+  <!--OBJECT USE OR TAKE-->
+  <text UseObject_TextBox ="HO USATO" />
+  <text TakeObject_TextBox ="HO RECUPERATO" />  
+  
+  <!--INTRO-->
+  <text  IntroTitle1 ="6 Giugno 1996" />
+  <text  IntroTitle2 ="Barbara e suo fratello Johnny si dirigono alla tomba del padre. Nel cimitero un uomo li aggredisce uccidendo Johnny. Barbara riesce a scappare in una casa vicino, ma e' inseguita dai morti viventi" />
+  <text  IntroTitle3 ="Tratto dal film: 'NIGHT OF THE LIVING DEAD' di George Romero" />
+
+  <!--TEXTBOX-->
+  <text  Phone ="Il telefono sembra rotto" />
+  <text  LobbyNightTable ="Un coniglio di peluche, mi domando chi viva qui..." />
+  <text  Piano1 ="Avessi uno spartito, potrei provare a suonarlo" />
+  <text  Piano2 ="Sono un po' arrugginita, ma dovrei ricordarmi come si suona" />
+  <text  Fireplace ="Sembra non esserci la canna fumaria... che strano..." />
+  <text  Shield ="Lo scudo sembra non staccarsi, probabilmente e' avvittato" />
+  <text  Sword ="Spade da arredamento, sono troppo fragili per essere usate in combattimento" />
+  <text  RearExit ="Ci sono un sacco di quelle... persone... meglio lasciare la porta chiusa..." />
+  <text  CellarDoor ="Sembra chiusa" />
+  <text  CookBook ="Libri di cucina... non mi sembra il momento di pensare alla cena" />
+  <text  SallyDoor ="E' chiusa" />
+  <text  LabDoor ="E' chiusa. Sulla porta c'e' un'insegna con scritto: 'Laboratorio'" />
+  <text  OrwellBook ="1984 di G. Orwell, giuro che se sopravvivo me lo rileggo" />
+  <text  Safe ="C'e' una cassaforte, pero' mi serve la combinazione" />
+  <text  Sheets ="Ci sono un sacco di formule matematiche e piani cartesiani, chissa' a cosa servono..." />
+  <text  ComputerSally1 ="E' acceso, ma non c'e' nulla di interessante" />
+  <text  ComputerSally2 ="a questo computer e' collegata una stampante, mi potrebbe essere utile" />
+  <text  WallSally ="Battendo sul muro sembra vuoto..." />
+  <text  ComputerLab ="tra i file c'e' uno spartito, ma non ho modo di stamparlo" />
+  <text  KarenBody ="il cuore non batte, poverina... cosi' piccola..." />
+  <text  Tomb ="In memoria di Leonardo, il Puledro boide dalla mente geniale e dalla forza infinita" />
+  <text  SallyDeadBody ="Oddio... mi sto sentendo male..." />
+  <text  DeadBodyMan ="Il braccio sembra essere stato strappato via... probabilmente e' morto per il troppo sangue perso..." />  
+  <text  DoorBunker ="La porta e' bloccata!!" />
+  <text  NoPOCtoUse ="Avessi una pezza di stoffa potrei salvare i miei progressi" />
+
+  <!--TEXT NOTE-->
+  <!--REPORT SOLDIER-->
+  <text  ReportTitle ="RAPPORTO SCRITTO" />
+  <text  ReportPage1 ="16 giugno, ore 14:23 - A causa di un'incidente subito con la macchina, mi sono ritrovata a chiedere ospitalita' in questa casa, purtroppo ho lasciato il mio registratore in auto e anche la mia radio ha subito un guasto, quindi non ho potuto chiamare i rinforzi. La famiglia Bancroft ha subito un'aggressione, poco dopo il mio arrivo, dal loro vicino, il signor Kimmel." />
+  <text  ReportPage2 ="Costui batteva sulla porta e la signora Bancroft dopo averla aperta, e' stata morsicata sul braccio. Il signor Kimmel, uomo bianco di mezza eta' e senza precedenti (secondo quanto mi e' stato testimoniato), e' stato allontanato con la forza dal signor Bancroft (generale statunitense fuori servizio), la sottoscritta ha estratto l'arma, intimando l'aggressore alla resa." />
+  <text  ReportPage3 ="Nonostante le continue richieste il signor Kimmel non accennava alla resa, per questo ho dovuto intervenire sparando tre colpi alla gamba, ma costui ancora non accennava a fermarsi, di conseguenza ho dovuto sparare altri tre colpi sul petto, ma ancora nulla. Sembrava che i colpi inferti non avessero effetto, nonostante fosse privo di protezioni." />
+  <text  ReportPage4 ="A questo punto sono entrati la moglie ed il figlio del signor Kimmel, anche loro con passo lento ed emettendo come un verso, dato da una sola sillaba ed al di fuori dell'abitazione sembravano esserci altre persone nello stesso stato, ancora non identificate. Il signor Bancroft mi chiese protezione mentre lui si accingeva al camino, non ho prestato attenzione per l'intensita' del momento ai sui movimenti, ma ha aperto un passaggio in esso." />
+  <text  ReportPage5 ="Ci siamo rifugiati in un bunker sotterraneo fatto costruire dal padre del signor Bancroft a meta' degli anni 60, per paura dello scoppio di una guerra nucleare, il tutto e' stato nascosto perche' non in regola con la legge, per questo chiedo accertamenti." />
+  <text  ReportPage6 ="Aggiornamento delle ore 15:42 - Il tempo sembra non passare e la tensione e' al massimo, sia il signore che la signora Bancroft vorrebbero uscire per dirigersi verso l'ospedale, dato che le medicine qui dentro non sembrano avere effetto sul morso che sembra aver generato una sorta di infezione, inoltre la figlia dei Bancroft e' smarrita, a quanto pare era fuori casa al mio arrivo. Sono andata a controllare, tutte le persone erano sparite, mi sono diretta al primo piano e ho trovato il cadavere della ragazza proprio davanti alle scale." />
+  <text  ReportPage7 ="A quel punto ho visto il signor Kimmel spuntare da dietro l'angolo del corridoio e sono fuggita (ho esaurito le munizioni della pistola). Non ho detto nulla ai signori Bancroft, non vorrei che la situazione possa degenerare. Sto vedendo che la fiducia del signor Bancroft incomincia a vacillare per fare spazio alla paura e al dolore. Il colorito della moglie e' incominciato a diventare bianco, inoltre il braccio sembra aver subito una specie di mutazione e la febbre sembra aumentare, adesso ci stiamo preparando per andare in ospedale, sper [la nota si interrompe] " />
+  
+  <!--SALLY NOTE-->
+  <text  SallyNoteTitle ="NOTA PER SALLY" />
+  <text  SallyNote ="Sally, dato che continui a rincasare tardi, finche' non imparerai che questo non e' un albergo, la tua stanza rimarra' chiusa. Puoi sempre dormire sul divano, tanto sei giovane no?" />
+
+  <!--sallyHomeworkTitle-->
+  <text  sallyHomeworkTitle ="COMPITO PER LA SCUOLA" />
+  <text  sallyHomeworkPage1 ="21 anni fa mio papa' si ritrovo' a combattere per la nostra patria nel Vietnam, per me e' un eroe, perche' si e' preso le sue responsabilita' e per proteggere non solo mia mamma, ma ogni singolo americano, e' andato in una terra lontana per fermare le persone che altrimenti ci avrebbero ucciso. Vedo molte persone che lo additano come un assassino o come un pazzo, perche' a volte con dei rumori improvvisi tende a guardarsi intorno o a ripararsi in un angolo, ma so che per lui tutto questo e' solo un peso," />
+  <text  sallyHomeworkPage2 ="lo sento la notte mentre si lamenta o si sveglia urlando, mentre mia mamma cerca di calmarlo. Quando mi vede li' in piedi di fronte alla porta della loro camera, mi prende (o meglio mi prendeva vista ormai la mia eta') e mi riporta in camera, mi rimbocca le coperte e cerca di farmi sentire al sicuro, cerca di farlo ogni volta che puo'. Puo' una persona cosi' essere un assassino?  P.s. Ho trovato una sua foto appena tornato dalla guerra, mi fa strano vederlo cosi' giovane e senza i capelli lunghi" />
+  
+  <!--DEAD SCREEN-->
+  <text  Dead ="SEI MORTO" />
+
+  <!--SET DEFAULT RESOLUTION-->
+  <text  SetResolution ="LA RISOLUZIONE INSERITA NON E' SUPPORTATA DAL COMPUTER, QUINDI E' STATA RIPRISTINATA A 640x360 IN MODALITA' FINESTRA
+
+
+
+
+PREMI ESC PER CONTINUARE" />
+
+  <!--ENDGAME TEXT-->
+  <text  EndGameStory ="Dopo svariati tentativi Barbara riesce a sbloccare la porta, si avvia verso l'uscita, ma qualcosa dentro di lei cambia, la paura la assale, quindi decide di tornare dentro al bunker. Le e' stata data la possibilita' di vivere tra quelle mura, sfuggendo a tutto cio' che potrebbe farle del male la' fuori, ma questo si puo' definire vivere?" />
+  <text  Credits ="VIDEOGIOCO CREATO DA: FRANCESCO LUCA PANZARINO" />
+</data>

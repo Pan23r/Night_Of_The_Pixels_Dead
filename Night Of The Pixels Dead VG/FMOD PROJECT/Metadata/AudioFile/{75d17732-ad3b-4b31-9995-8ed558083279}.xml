@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{75d17732-ad3b-4b31-9995-8ed558083279}">
+		<property name="assetPath">
+			<value>Book1.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.50004535147392293</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6e76821c-dfb3-41ab-b6cf-bad7023deb93}</destination>
+		</relationship>
+	</object>
+</objects>

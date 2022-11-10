@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7900ea72-f772-4025-9da7-cb571dfe336a}">
+		<property name="assetPath">
+			<value>Zombie3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.3062916666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6e76821c-dfb3-41ab-b6cf-bad7023deb93}</destination>
+		</relationship>
+	</object>
+</objects>

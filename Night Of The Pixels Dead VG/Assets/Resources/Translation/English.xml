@@ -1,0 +1,143 @@
+<data>
+  <!--MAIN MENU-->
+  <text Play_Text="NEW GAME" />
+  <text Load_Text_Main="LOAD GAME" />
+  <text Option_Text="OPTIONS" />
+  <text Exit_Text="EXIT" />
+
+  <!--OPTION-->
+  <text On="ON" />
+  <text Off="OFF" />
+  <text Full_Screen="FULL SCREEN" />
+  <text Screen_Size="WINDOW SIZE" />
+  <text Volume="VOLUME" />
+  <text Language="LANGUAGE" />  
+
+  <!--LOAD & SAVE GAME-->
+  <text Save_text="SAVE GAME" />
+  <text Empty_Slot="EMPTY SLOT" />
+
+  <!--OVERLOAD SAVE REQUEST-->
+  <text RequestSaveHard="DO YOU WANT TO USE A PIECE OF CLOTH TO SAVE YOUR PROGRESS?" />
+  <text RequestOverloadSave="DO YOU WANT TO OVERWRITE THE SAVE?" />
+
+  <!--SELECT DIFFICULTY -->
+  <text difficulty_Title="HOW DO YOU DEFINE YOURSELF?" />
+  <text ChoiceHardMod="Regular player of the 'survival horror', I don't need help" />
+  <text ChoiceEasyMod="Unusual player, I need a hand" />
+  <text Hard="HARD" />
+  <text Easy="EASY" />
+
+  <!--GAME MENU-->
+  <text Invenctory="INVENCTORY" />
+  <text BackToMainMenu="BACK TO MENU" />
+
+  <!--BACK TO MAIN MENU REQUEST-->
+  <text Request ="DO YOU WANT TO RETURN TO THE MAIN MENU?" />
+  <text Yes ="YES" />
+  <text No ="NO" />
+
+  <!--INVENCTORY-->
+  <text ObjEquipped="Equipped" />
+  <text UseSelect="Use" />
+  <text EquipsdSelect="Equips" />
+  <text CheckSelect="Examines" />
+  <text CombineSelect="Combines" />
+  <text Life="LIFE" />
+  
+  <!--OBJECT NAME-->
+  <text NameGun="M11-A1" />
+  <text NameSallyKey="Sally's room key" />
+  <text NameLabKey="Laboratory key" />
+  <text NameAmmunitionGun ="Ammunition M11-A1" />
+  <text NameFloppy ="Floppy Disk" />
+  <text NameFloppyWithMusicSheet ="Floppy Disk with Sheet Music" />
+  <text NameMusicSheet ="Sheet Music" />
+  <text NameMedallion ="Medallion with Vitruvian Man" />
+  <text NameMagnum ="Colt Python 357" />
+  <text NamepieceOfCloth ="Piece of cloth with needle" />
+  
+  <!--OBJECT EXAMINATION-->
+  <text GunExamination="Pistol found in the lobby, it's a 9mm semiautomatic" />
+  <text SallysKeyExamination="Key found in the bedroom, should open the room of the girl who lives in this house" />
+  <text LabKeyExamination="Key that opens the laboratory on the first floor" />
+  <text AmmunitionExamination="Eagle Gold 9mm ammunition, can be used for the M11-A1" />
+  <text FloppyExamination="2.8 MB Floppy Disk, may contain files" />
+  <text FloppyWhithMusicSheetExamination="2.8 MB Floppy Disk, contains a Sheet Music file" />
+  <text MusicSheetExamination="A sheet music from Beethoven's Moonlight Sonata" />
+  <text MedallionExamination="A medallion depicting the Vitruvian man, the work of Leonardo Da Vinci, italian artist/scientist of the 1400s" />
+  <text MagnumExamination="Magnum Colt Python 357 with 6-inch long barrel, has a 6-shot drum" />
+  <text PieceOfClothExamination ="This object carries a keepsake with it and if sewn onto a meaningful object it can add new memories" />
+  
+  <!--OBJECT USE OR TAKE-->
+  <text UseObject_TextBox ="I USED" />
+  <text TakeObject_TextBox ="I RECOVERED" />
+  
+  <!--INTRO-->
+  <text  IntroTitle1 ="June 6, 1996" />
+  <text  IntroTitle2 ="Barbara and her brother Johnny head to their father's grave. In the cemetery a man attacks them killing Johnny. Barbara manages to escape to a nearby house, but is chased by the Living Dead" />
+  <text  IntroTitle3 ="Based on the film: 'THE NIGHT OF THE LIVING DEAD' by George Romero" />
+  
+  <!--TEXTBOX-->
+  <text  Phone ="The phone looks broken" />
+  <text  LobbyNightTable ="A stuffed rabbit, I wonder who lives here..." />
+  <text  Piano1 ="If I had a score, I could try to play it" />
+  <text  Piano2 ="I'm a little rusty, but I should remember how it sounds" />
+  <text  Fireplace ="There seems to be no chimney... how strange..." />
+  <text  Shield ="The shield doesn't seem to come off, it's probably screwed on" />
+  <text  Sword ="Furnishing swords, they are too fragile to be used in combat" />
+  <text  RearExit ="There are a lot of those... people... better leave the door closed..." />
+  <text  CellarDoor ="It seems locked" />
+  <text  CookBook ="Cookbooks... I don't think it's time to think about dinner" />
+  <text  SallyDoor ="it's locked" />
+  <text  LabDoor ="it's locked. On the door there is a sign that reads: 'Laboratory'" />
+  <text  OrwellBook ="1984 by G. Orwell, I swear that if I survive I will reread it" />
+  <text  Safe ="There's a safe, but I need the combination" />
+  <text  Sheets ="There are a lot of mathematical formulas and Cartesian plans, who knows what they are for..." />
+  <text  ComputerSally1 ="It's on, but there's nothing interesting" />
+  <text  ComputerSally2 ="a printer is connected to this computer, it could be useful to me" />
+  <text  WallSally ="Knocking on the wall it seems empty..." />
+  <text  ComputerLab ="there is a sheet music among the files, but I have no way to print it" />
+  <text  KarenBody ="the heart does not beat, poor thing... so little..." />
+  <text  Tomb ="In memory of Leonardo, the Colt boide with a brilliant mind and infinite strength" />
+  <text  SallyDeadBody ="Damn... I'm feeling bad..." />
+  <text  DeadBodyMan ="The arm appears to have been ripped off... he probably died from too much blood lost..." />
+  <text  DoorBunker ="The door is blocked!!" />
+  <text  NoPOCtoUse ="I had a piece of cloth I could save my progress" />
+  
+  <!--TEXT NOTE-->
+  <!--REPORT SOLDIER-->
+  <!--REPORT SOLDIER-->
+  <text  ReportTitle ="WRITTEN REPORT" />
+  <text  ReportPage1 ="June 16, 2:23 pm - Due to an accident with the car, I found myself asking for hospitality in this house, unfortunately I left my tape recorder in the car and my radio also suffered a breakdown, so I don't I was able to call for backup. The Bancroft family was attacked shortly after my arrival by their neighbor, Mr. Kimmel." />
+  <text  ReportPage2 ="He knocked on the door and Mrs. Bancroft, after opening it, was bitten on the arm. Mr. Kimmel, an unprecedented middle-aged white man (according to what I have been witnessed), was forcibly removed by Mr. Bancroft (US general off duty), the undersigned pulled out the weapon, ordering the attacker to surrender." />
+  <text  ReportPage3 ="Despite the constant requests, Mr. Kimmel did not mention the surrender, for this I had to intervene by firing three shots in the leg, but he still did not seem to stop, consequently I had to fire three more shots on the chest, but still nothing. It seemed that the blows inflicted had no effect, despite being unprotected." />
+  <text  ReportPage4 ="At this point Mr. Kimmel's wife and son entered, also with a slow pace and emitting like a verse, given by a single syllable and outside the house there seemed to be other people in the same state, still unidentified. Mr. Bancroft asked me for protection as he made his way to the fireplace, I didn't pay attention to the intensity of the moment to his movements, but he opened a passage in it." />
+  <text  ReportPage5 ="We took refuge in an underground bunker built by Mr. Bancroft's father in the mid-60s, for fear of the outbreak of a nuclear war, everything was hidden because it was not in compliance with the law, so I ask for investigations." />
+  <text  ReportPage6 ="3:42 pm update - Time seems not to pass and the tension is at its maximum, both Mr. and Mrs. Bancroft would like to go out to head to the hospital, as the medicines in here do not seem to have any effect on the bite it seems generating some sort of infection, also the Bancroft daughter is lost, apparently she was away from home when I arrived. I went to check, all the people were gone, I went to the first floor and found the girl's body right in front of the stairs." />
+  <text  ReportPage7 ="At that point I saw Mr. Kimmel pop up from around the corner of the corridor and I fled (I ran out of gun ammo). I didn't say anything to the Bancroft gentlemen, I don't want the situation to escalate. I'm seeing Mr. Bancroft's confidence begin to falter to make room for fear and pain. The color of the wife has started to turn white, moreover the arm seems to have undergone a kind of mutation and the fever seems to increase, now we are preparing to go to the hospital, hop [the note stops]" />
+  
+  <!--SALLY NOTE-->
+  <text  SallyNoteTitle ="NOTE TO SALLY" />
+  <text  SallyNote ="Sally, since you keep coming home late, until you learn this is not a hotel, your room will be locked. You can always sleep on the sofa, you are so young right?" />
+  
+  <!--sallyHomeworkTitle-->
+  <text  sallyHomeworkTitle ="HOMEWORK FOR SCHOOL" />
+  <text  sallyHomeworkPage1 ="21 years ago my dad found himself fighting for our homeland in Vietnam, for me he is a hero, because he took his responsibilities and to protect not only my mom, but every single American, he went in a distant land to stop the people who otherwise would have killed us. I see many people who point to him as a murderer or as a madman, because sometimes with sudden noises he tends to look around or take shelter in a corner, but I know that for him all this is just a burden," />
+  <text  sallyHomeworkPage2 ="I hear him at night as he moans or wakes up screaming, while my mom tries to calm him down. When he sees me standing there in front of the door of their room, he takes me (or rather he took me by now considering my age) and takes me back to the room, tucks me up and tries to make me feel safe, tries to do it whenever he can. Could such a person be a killer? P.s. I found a picture of him just back from the war, it makes me strange to see him so young and without long hair" />
+
+  <!--DEAD SCREEN-->
+  <text  Dead ="YOU DIED" />
+
+  <!--SET DEFAULT RESOLUTION-->
+  <text  SetResolution ="THE INSERTED RESOLUTION IS NOT SUPPORTED BY THE COMPUTER, SO IT HAS BEEN RESTORED TO 640x360 IN WINDOW MODE
+
+
+
+
+PRESS ESC TO CONTINUE" />
+    
+  <!--ENDGAME TEXT-->
+  <text  EndGameStory ="After several attempts Barbara manages to unlock the door, starts towards the exit, but something inside her changes, fear assails her, so she decides to go back inside the bunker. You have been given the chance to live within those walls, escaping anything that could harm you out there, but can this be defined as living?" />
+  <text  Credits ="VIDEOGAME CREATED BY: FRANCESCO LUCA PANZARINO" />  
+</data>
